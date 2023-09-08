@@ -12,4 +12,4 @@ This project aims to predict the results of the QATAR 2022 World Cup from the in
 
 ## Predictions
 
-The Notebook [Predictions.ipynb] uses the inference datasets and the trained models to predict the World Cup matches and thus find the winner of the World Cup. It is essential to mention that to choose who is the home team in each World Cup match, use dataset [squad_stats.csv], which provides the potential of each team; therefore, the team with more significant potential will be the home team.
+The Notebook Predictions.ipynb uses the inference datasets and the trained models to predict the World Cup matches and thus find the winner of the World Cup. It is essential to mention that to choose who is the home team in each World Cup match, use dataset squad_stats.csv, which provides the potential of each team; therefore, the team with more significant potential will be the home team.
