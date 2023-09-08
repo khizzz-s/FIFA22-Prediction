@@ -1,5 +1,5 @@
 ![16366925243845 (1)](https://github.com/khizzz-s/FIFA22-Prediction/blob/main/data/Banner.jpg)
-<img width="1348" alt="Screen Shot 2022-09-30 at 3 15 39 PM" src="https://user-images.githubusercontent.com/60159274/193369758-9105f128-a3b1-4d06-9c21-361c327a69ff.png">
+<img width="1348" alt="Screen Shot 2022-09-30 at 3 15 39 PM" src="https://github.com/khizzz-s/FIFA22-Prediction/blob/main/data/result.png">
 
 # World Cup QATAR 2022 Prediction: Project Overview
 
